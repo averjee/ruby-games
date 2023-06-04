@@ -1,2 +1,0 @@
-# ruby-games
-Ruby Games
